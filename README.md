@@ -1,6 +1,6 @@
 # crud_client
 
-Olá e bem-vindo ao repositório do projeto CRUD_Client no GitHub!
+Olá, seja bem-vindo ao repositório do projeto CRUD_Client no GitHub!
 
 Este projeto consiste em uma aplicação que permite a realização das operações básicas do CRUD (Create, Read, Update e Delete) para gerenciar clientes. Ele foi desenvolvido utilizando a linguagem de programação Java e a plataforma Spring Boot.
 
